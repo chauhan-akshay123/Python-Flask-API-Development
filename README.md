@@ -17,8 +17,5 @@ Run the following command in the terminal:
 ```bash
 python -m venv venv
 
-### 2. Activate the Virtual Environment
-After creating virtual environment, activate it using the command:
-```bash
-venv/Scripts/activate
+
 
