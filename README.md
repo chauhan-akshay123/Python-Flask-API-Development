@@ -16,6 +16,3 @@ A virtual environment is used to isolate dependencies for this particular projec
 Run the following command in the terminal:
 ```bash
 python -m venv venv
-
-
-
