@@ -1,2 +1,2 @@
-DAY-1 (23 Jan 2025) ----> app, app_1, app_2
+DAY-1 (23 Jan 2025) ----> app, app_2, app_3
 DAY-2 (24 Jan 2025) ----> (Operators in Python) --> app_4.py, app_5.py
