@@ -6,3 +6,5 @@ DAY-5 (27 Jan 2025) ----> Student Assignment Management System
 DAY-6 (28 Jan 2025) ----> Woking with Objects -> app_12.py, app_13.py
 DAY-6 (29 Jan 2025) ----> Working with Objects -> app_14.py
                      ----> Filtering Data -> app_15.py, app_16.py
+DAY-7 (29 Jan 2025) ----> Working with Objects
+                     ----> Filtering Data -> app_17.py   
