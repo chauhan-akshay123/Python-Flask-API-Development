@@ -8,6 +8,6 @@ DAY-6 (29 Jan 2025) ----> Working with Objects -> app_14.py
                      ----> Filtering Data -> app_15.py, app_16.py
 DAY-7 (30 Jan 2025) ----> Working with Objects
                      ----> Filtering Data -> app_17.py   
-DAY-8 (31 Jan 2025) ----> Array of objects (filtering) -> app_18.py
+DAY-8 (31 Jan 2025) ----> Array of objects (filtering) -> app_18.py, app_19.py
 
   
