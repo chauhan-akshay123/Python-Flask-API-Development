@@ -11,7 +11,7 @@ DAY-7 (30 Jan 2025) ----> Working with Objects
 DAY-8 (31 Jan 2025) ----> Array of objects (filtering) -> app_18.py, app_19.py
 DAY-9 (1 Feb 2025)  ----> Array of objects (filtering) -> app_20.py
                      ----> Sorting -> app_21.py, app_22.py, app_23.py
-DAY-10 (7 Feb 2025) ----> Find (Array of Objects) -> app_24.py, app_25.py
+DAY-10 (7 Feb 2025) ----> Find (Array of Objects) -> app_24.py, app_25.py, app_26.py
 
 
 
