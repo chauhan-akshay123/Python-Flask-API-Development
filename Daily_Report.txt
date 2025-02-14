@@ -13,6 +13,7 @@ DAY-9 (1 Feb 2025)  ----> Array of objects (filtering) -> app_20.py
                      ----> Sorting -> app_21.py, app_22.py, app_23.py
 DAY-10 (7 Feb 2025) ----> Find (Array of Objects) -> app_24.py, app_25.py, app_26.py
 DAY-11 (8 Feb 2025) ----> Update/Delete (Array of Objects) -> app_27.py, app_28.py
+DAY-12 (14 Feb 2025) ----> AND/OR Operators -> app_29.py
 
 
 
